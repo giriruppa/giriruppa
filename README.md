@@ -1,16 +1,140 @@
-## Hi there 👋
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="1000" height="3">
+</p>
 
+<h1 align="center">Hey there, I'm <a href="https://rebrand.ly/Giridhar-Linkedin">Ruppa Giridhar</a> 👋</h1>
+<h3 align="center">💻 Tech Enthusiast | 🔐 Cybersecurity Learner | ☁️ Cloud & DevOps Explorer | 🔬 R&D Mindset</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250">
+</p>
+
+---
+
+### 🧠 About Me
+- 🚀 A passionate **Tech Explorer** fueled by curiosity to understand, secure, and innovate within complex systems.
+- 🔐 Deeply interested in **Cybersecurity, Cloud Security, and DevOps Automation** — blending technology with defense.
+- ☁️ Currently exploring **threat detection, cloud-native security, and AI-driven incident response for smarter protection**.
+- 🧩 Driven by **R&D and problem-solving**, always experimenting with new ways to detect, monitor, mitigate cyber risks.
+- ⚡ Fun fact: I love turning “**what if**” ideas into real-world tech experiments 💡😄
+
+---
+
+### 🛠️ Tech Stack
+
+#### 🚀 Languages & Scripting
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash,c" />
+</p>
 <!--
-**giriruppa/giriruppa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🧰 Security & Monitoring
+<p align="left">
+  <img src="https://img.shields.io/badge/Splunk-Enterprise-green?logo=splunk&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-Blue?logo=wireshark&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-darkred?logo=kalilinux&style=for-the-badge" />
+</p>-->
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧰 Cyber Security
+
+#### 🧿 Monitoring
+<p align="left">
+  <img src="https://img.shields.io/badge/Splunk-Enterprise-green?logo=splunk&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-006699?logo=wireshark&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge" />
+</p>
+
+
+#### 🔍 Analysis & Forensics
+<p align="left">
+  <img src="https://img.shields.io/badge/Volatility-Memory%20Forensics-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FTK%20Imager-Digital%20Forensics-003366?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Forensic%20Toolkit-000000?style=for-the-badge" />
+</p>
+
+#### ⚔️ Pentesting & Recon
+<p align="left">
+  <img src="https://img.shields.io/badge/Metasploit-Exploit%20Framework-darkred?logo=metasploit&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nmap-Network%20Scanner-4682B4?logo=nmap&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Pentest-FF6633?logo=burpsuite&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nessus-Vulnerability%20Scanner-00BFAE?style=for-the-badge" />
+</p>
+
+---
+
+#### ☁️ Cloud & DevOps Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,ansible,git,github" />
+</p>
+
+#### 💾 Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+#### ⚙️ Frameworks & Standards
+<p align="left">
+  <img src="https://img.shields.io/badge/ISO%2027001-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NIST%20CSF-orange?style=for-the-badge" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=giriruppa&show_icons=true&hide=prs,issues,contribs&count_private=true&theme=tokyonight&custom_title=Ruppa%20Giridhar's%20Active%20Repositories" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=giriruppa&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=giriruppa&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giriruppa&theme=tokyonight" />
+</p>
+
+<!-- <p align="center"> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=giriruppa&show_icons=true&hide=prs,issues,contribs&count_private=true&theme=tokyonight&custom_title=Ruppa%20Giridhar's%20Active%20Repositories" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=giriruppa&theme=tokyonight" />
+</p>-->
+
+<p align="center">
+  <b>💻 Technologies I Use:</b><br><br>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+### 🧩 Featured Projects
+| 🔧 Project | 💬 Description | 🚀 Tech |
+|-------------|----------------|----------|
+| [Secure Log Monitoring System](https://github.com/RuppaGiridhar/Secure-Log-Monitoring) | Dockerized Splunk setup for scalable security monitoring | Docker, Splunk, Jenkins, AWS |
+| [Cloud Cost Optimizer](https://github.com/RuppaGiridhar/Cloud-Cost-Optimizer) | ML-based cost optimization tool for AWS services | AWS, Python, SageMaker |
+| [DevSecOps Pipeline](https://github.com/RuppaGiridhar/DevSecOps-Pipeline) | End-to-end CI/CD pipeline with integrated security scans | Jenkins, Docker, Trivy |
+
+---
+
+### 🧠 Research & Development
+> Exploring how **Agile Methodology integrates with Cybersecurity** for secure software development — [IEEE Paper Draft 📄](https://github.com/RuppaGiridhar/Agile-Cybersecurity-Research)
+
+---
+
+### 🤝 Connect With Me
+<p align="center">
+  <a href="https://rebrand.ly/Giridhar-Linkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://rebrand.ly/Giridhar-GitHub"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="mailto:giriruppa964@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="1000" height="3">
+</p>
+
+<p align="center">✨ “Curiosity is the spark behind every great innovation.” ✨</p>
+
