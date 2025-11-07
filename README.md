@@ -46,6 +46,11 @@
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge" />
 </p>
 
+🔗 **Related Repositories:**  
+- [Secure Log Monitoring System](https://github.com/RuppaGiridhar/Secure-Log-Monitoring) – A Docker-based Splunk setup for centralized, secure, and scalable log monitoring with real-time alerting, CI/CD automation, and Azure integration.
+- [Network Packet Analysis with Wireshark](https://github.com/RuppaGiridhar/Wireshark-Network-Analysis) – Hands-on network traffic inspection with automation and manual
+- [Splunk Resources & Hands-On](https://github.com/RuppaGiridhar/splunk-resources-and-hands-on) – A collection of resources, guides, and hands-on implementations for Splunk, covering setup, data ingestion, and real-world use cases  
+
 
 #### 🔍 Analysis & Forensics
 <p align="left">
