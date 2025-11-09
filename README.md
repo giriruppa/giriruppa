@@ -17,7 +17,7 @@
 - 🔐 Deeply interested in **Cybersecurity, Cloud Security, and DevOps Automation** — blending technology with defense.
 - ☁️ Currently exploring **threat detection, cloud-native security, and AI-driven incident response for smarter protection**.
 - 🧩 Driven by **R&D and problem-solving**, always experimenting with new ways to detect, monitor, mitigate cyber risks.
-- ⚡ Fun fact: I love turning “**what if**” ideas into real-world tech experiments 💡😄
+
 
 ---
 
