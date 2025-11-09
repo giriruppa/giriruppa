@@ -72,6 +72,12 @@
   <img src="https://img.shields.io/badge/Nessus-Vulnerability%20Scanner-00BFAE?style=for-the-badge" />
 </p>
 
+🔗 **Related Repositories:**  
+- [ Vulnerability Assessment Report — nullclass.com](https://github.com/giriruppa/Vulnerability-Assessment-Report) – A Docker-based Splunk setup for centralized, secure, and scalable log monitoring with real-time alerting, CI/CD automation, and Azure integration.
+- [VAPT-Report-for-Web-Server-with-Live-Website](https://github.com/giriruppa/VAPT-Report-for-Web-Server-with-Live-Website-) – Hands-on network traffic inspection with automation and manual
+- [Socket-Programming](https://github.com/giriruppa/Socket-Programming-) – A collection of resources, guides, and hands-on implementations for Splunk, covering setup, data ingestion, and real-world use cases  
+- 
+
 ---
 
 #### ☁️ Cloud & DevOps Tools
