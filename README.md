@@ -73,10 +73,10 @@
 </p>
 
 🔗 **Related Repositories:**  
-- [ Vulnerability Assessment Report — nullclass.com](https://github.com/giriruppa/Vulnerability-Assessment-Report) – A Docker-based Splunk setup for centralized, secure, and scalable log monitoring with real-time alerting, CI/CD automation, and Azure integration.
-- [VAPT-Report-for-Web-Server-with-Live-Website](https://github.com/giriruppa/VAPT-Report-for-Web-Server-with-Live-Website-) – Hands-on network traffic inspection with automation and manual
-- [Socket-Programming](https://github.com/giriruppa/Socket-Programming-) – A collection of resources, guides, and hands-on implementations for Splunk, covering setup, data ingestion, and real-world use cases  
-- 
+- [ Vulnerability Assessment Report — nullclass.com](https://github.com/giriruppa/Vulnerability-Assessment-Report) – Comprehensive vulnerability assessment for the nullclass.com domain, featuring detailed findings, mitigation steps, and automated security scanning.
+- [VAPT-Report-for-Web-Server-with-Live-Website](https://github.com/giriruppa/VAPT-Report-for-Web-Server-with-Live-Website-) – Hands-on vulnerability assessment and penetration testing of a live web server, combining automated scanning with manual verification and detailed remediation guidance.
+- [Socket-Programming](https://github.com/giriruppa/Socket-Programming-) – A collection of C/C++ and Python socket programming implementations demonstrating client–server communication, connection handling, and data transmission concepts.  
+- [Socket-Programming](https://github.com/giriruppa/Socket-Programming-) – A collection of C/C++ and Python socket programming implementations demonstrating client–server communication, connection handling, and data transmission concepts.  
 
 ---
 
