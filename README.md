@@ -76,7 +76,7 @@
 - [ Vulnerability Assessment Report — nullclass.com](https://github.com/giriruppa/Vulnerability-Assessment-Report) – Comprehensive vulnerability assessment for the nullclass.com domain, featuring detailed findings, mitigation steps, and automated security scanning.
 - [VAPT-Report-for-Web-Server-with-Live-Website](https://github.com/giriruppa/VAPT-Report-for-Web-Server-with-Live-Website-) – Hands-on vulnerability assessment and penetration testing of a live web server, combining automated scanning with manual verification and detailed remediation guidance.
 - [Socket-Programming](https://github.com/giriruppa/Socket-Programming-) – A collection of C/C++ and Python socket programming implementations demonstrating client–server communication, connection handling, and data transmission concepts.  
-- [Socket-Programming](https://github.com/giriruppa/Socket-Programming-) – A collection of C/C++ and Python socket programming implementations demonstrating client–server communication, connection handling, and data transmission concepts.  
+- [Functional and End-to-End-Automation-Testing](https://github.com/giriruppa/Functional-End-to-End-Automation-Testing) – Automated web testing using Selenium WebDriver in Java to validate real-world workflows on Swiggy (food ordering) and Shine Jobs (job search & application). Includes functional and end-to-end UI automation
 
 ---
 
