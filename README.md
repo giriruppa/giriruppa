@@ -59,6 +59,11 @@
   <img src="https://img.shields.io/badge/Forensic%20Toolkit-000000?style=for-the-badge" />
 </p>
 
+🔗 **Related Repositories:**  
+- [Static-and-Dynamic-Malware-Analysis-Report](https://github.com/giriruppa/Static-and-Dynamic-Malware-Analysis-Report) – Detailed static and dynamic malware analysis using tools like PEStudio, Volatility, and Wireshark to understand malicious behavior and artifacts.
+- [Forensics-Memory-Analysis](https://github.com/giriruppa/Forensics-Memory-Analysis) – Memory forensics investigation using Volatility to extract processes, registry hives, and kernel modules from RAM dumps.
+ 
+
 #### ⚔️ Pentesting & Recon
 <p align="left">
   <img src="https://img.shields.io/badge/Metasploit-Exploit%20Framework-darkred?logo=metasploit&logoColor=white&style=for-the-badge" />
