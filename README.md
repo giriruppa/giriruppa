@@ -25,7 +25,7 @@
 
 #### 🚀 Languages & Scripting
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash,c" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,bash," />
 </p>
 <!--
 #### 🧰 Security & Monitoring
