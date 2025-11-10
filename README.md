@@ -159,3 +159,16 @@
 
 <p align="center">✨ “Curiosity is the spark behind every great innovation.” ✨</p>
 
+
+## 📊 Coding & Learning Profiles
+
+| Platform | Profile |
+|-----------|----------|
+| 🎓 **Cybrary** | [![Cybrary](https://img.shields.io/badge/Cybrary-%230077B5.svg?&style=for-the-badge&logo=cybrary&logoColor=white)](https://app.cybrary.it/browse/Giridhar) |
+| 💡 **GeeksforGeeks** | [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?&style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/girirupzc81/) |
+
+<!--| 🧰 **GitHub** | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giriruppa&show_icons=true&theme=tokyonight) | -->
+
+<!--| 🧠 **LeetCode** | [![LeetCode Stats](https://leetcard.jacoblin.cool/Giridhar_Ruppa?theme=dark&font=Nunito&ext=contest)](https://leetcode.com/u/Giridhar_Ruppa/) |-->
+
+
