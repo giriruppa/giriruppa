@@ -142,8 +142,9 @@
 ---
 
 ### 🧠 Research & Development
-> Exploring how **Agile Methodology integrates with Cybersecurity** for secure software development — [IEEE Paper Draft 📄](https://github.com/RuppaGiridhar/Agile-Cybersecurity-Research)
-
+> 💡Exploring how **Agile Methodology integrates with Cybersecurity** for secure software development — [IEEE Paper Draft 📄](https://drive.google.com/file/d/13pLOjgsf9-ZyGe116Jcm1BwaCeouTZTE/view?usp=sharing)
+> 🚀 Unified National Health Record System (UNHRS) — A blockchain- and AI-powered nationwide platform for secure, decentralized, and real-time access to patient health records linked via Aadhaar/QR-based ID.
+> 🛡️ Indian Cyberspace Real-Time Cyber Threat Monitoring and Alerting System (RTCMAS-IC) — An AI-, ML-, and blockchain-powered national platform for real-time cyber threat detection, predictive intelligence, and immutable incident tracking across India’s digital infrastructure.
 ---
 
 ### 🤝 Connect With Me
