@@ -132,19 +132,14 @@
 
 ---
 
-### 🧩 Featured Projects
-| 🔧 Project | 💬 Description | 🚀 Tech |
-|-------------|----------------|----------|
-| [Secure Log Monitoring System](https://github.com/RuppaGiridhar/Secure-Log-Monitoring) | Dockerized Splunk setup for scalable security monitoring | Docker, Splunk, Jenkins, AWS |
-| [Cloud Cost Optimizer](https://github.com/RuppaGiridhar/Cloud-Cost-Optimizer) | ML-based cost optimization tool for AWS services | AWS, Python, SageMaker |
-| [DevSecOps Pipeline](https://github.com/RuppaGiridhar/DevSecOps-Pipeline) | End-to-end CI/CD pipeline with integrated security scans | Jenkins, Docker, Trivy |
-
----
-
 ### 🧠 Research & Development
+
 > 💡Exploring how **Agile Methodology integrates with Cybersecurity** for secure software development — [IEEE Paper Draft 📄](https://drive.google.com/file/d/13pLOjgsf9-ZyGe116Jcm1BwaCeouTZTE/view?usp=sharing)
-> 🚀 Unified National Health Record System (UNHRS) — A blockchain- and AI-powered nationwide platform for secure, decentralized, and real-time access to patient health records linked via Aadhaar/QR-based ID.
-> 🛡️ Indian Cyberspace Real-Time Cyber Threat Monitoring and Alerting System (RTCMAS-IC) — An AI-, ML-, and blockchain-powered national platform for real-time cyber threat detection, predictive intelligence, and immutable incident tracking across India’s digital infrastructure.
+
+> 🚀 Unified National Health Record System (UNHRS) — A blockchain- and AI-powered nationwide platform for secure, decentralized, and real-time access to patient health records linked via        Aadhaar/QR-based ID.  [UNHRS]()
+
+> 🛡️ Indian Cyberspace Real-Time Cyber Threat Monitoring and Alerting System (RTCMAS-IC) — An AI-, ML-, and blockchain-powered national platform for real-time cyber threat detection,            predictive intelligence, and immutable incident tracking across India’s digital infrastructure.  [RTCMAS-IC 📄](https://drive.google.com/file/d/1Hgsa_hzV0X82_6C2tllvijdyOei8HZuK/view?usp=sharing)
+
 ---
 
 ### 🤝 Connect With Me
