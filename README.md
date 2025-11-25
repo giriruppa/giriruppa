@@ -87,7 +87,7 @@
 
 🔗 **Related Repositories:**  
 - [Email Reminder Bot Flask Web App](https://github.com/giriruppa/-Email-Reminder-Bot-Flask-Web-App) – Automated Email Reminder Web App built with Flask for scheduling and sending timely notifications.
-- [Secure Cloud Infrastructure Monitoring and Compliance Automation]                                 – 
+- [Secure Cloud Infrastructure Monitoring and Compliance Automation](https://github.com/giriruppa/Secure-Cloud-Infrastructure-Monitoring-and-Compliance-Automation) – Computerized and secure Azure cloud setup using Terraform, Puppet, and Nagios for configuration enforcement and real-time monitoring.
 - [Secure Log Monitoring System](https://github.com/giriruppa/Secure-Scalable-Log-Monitoring-System) – A Docker-based Splunk setup for centralized, secure, and scalable log monitoring with real-time alerting, CI/CD automation, and Azure integration.
 - [Automated-Docker-Based-Website-Deployment-on-Azure-VM](https://github.com/giriruppa/Automated-Docker-Based-Website-Deployment-on-Azure-VM) – Automated website deployment on Azure VM using Docker for scalable, cloud-based hosting and continuous delivery.
 
